@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime/local files
+.env
+*.log
+db.sqlite3
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Keep public repo code-only
+*.txt
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.gif
