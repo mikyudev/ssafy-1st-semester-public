@@ -25,8 +25,8 @@ db.sqlite3
 Thumbs.db
 .DS_Store
 
-# Keep public repo code-only
-*.txt
+# Keep public repo free of lecture/problem documents.
+# Small .txt input/output fixtures are allowed next to algorithm solutions.
 *.pdf
 *.docx
 *.pptx
